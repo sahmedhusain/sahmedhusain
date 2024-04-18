@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahmedhusain
 - 👀 I’m interested in logics
-- 🌱 I’m currently learning full stuck development and cyper security  
+- 🌱 I’m currently learning full stack development and cyper security  
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me (Discord ID: s_97ahm)
 - 😄 Pronouns: Sayed
