@@ -124,12 +124,8 @@
 ### 🌟 Key Achievements
 - 📊 Successfully developed and executed sales strategies for LIFECO across Bahrain
 - 🔥 Led fire safety system implementations for major clients including:
-  - **Bahrain Aluminium Company (ALBA)** - Deluge Fire Fighting System
-  - **Bahrain Steel Company** - Fire Suppression Systems
-  - **Ministry of Education** - Fire Alarm Systems
-  - **Ministry of Works STP** - Complete Fire Alarm & Fighting Systems
 - 📈 Improved regional sales volumes through targeted marketing strategies
-- 🤝 Established strong relationships with government ministries and civil defense authorities
+- 🤝 Established strong relationships with government ministries and authorities
 - 👥 Managed and led technical teams for complex electrical installations
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
