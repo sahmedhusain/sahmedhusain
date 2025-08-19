@@ -191,7 +191,7 @@ timeline
 
 ### 📫 Get in Touch
 - 📧 **Email:** sayedahmed97.sad@gmail.com
-- 📱 **Mobile:** +973 33115351
+- 💬 **Discord:** [s_97ahm](https://discord.com/users/s_97ahm)
 - 💼 **LinkedIn:** [/in/97ahm](https://www.linkedin.com/in/97ahm/)
 - 🐦 **X (Twitter):** [@_97ahm](https://twitter.com/_97ahm)
 
