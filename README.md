@@ -28,7 +28,7 @@
 📡 4+ Years in Telecommunications & Sales Leadership
 🌱 Transitioning into Tech to build innovative solutions
 🎯 Goal: Integrate engineering expertise with modern software development
-📍 Based in Northern Governorate, Bahrain
+📍 Based in Bahrain
 ```
 
 ### 🏢 Professional Journey
