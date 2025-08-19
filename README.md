@@ -195,7 +195,7 @@ timeline
 ### 📫 Get in Touch
 - 📧 **Email:** sayedahmed97.sad@gmail.com
 - 💬 **Discord:** [s_97ahm](https://discord.com/users/s_97ahm)
-- 💼 **LinkedIn:** [/in/97ahm](https://www.linkedin.com/in/97ahm/)
+- 💼 **LinkedIn:** [Sayed Ahmed Husain](https://www.linkedin.com/in/97ahm/)
 - 🐦 **X (Twitter):** [@_97ahm](https://twitter.com/_97ahm)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
