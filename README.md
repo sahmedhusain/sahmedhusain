@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Sayed Ahmed Husain
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Sayed
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Electrical+Engineer+%7C+Full+Stack+Developer;Public+Relations+In-charge+@+LIFECO;Reboot+Coding+Institute+Student;Building+Tech-Driven+Solutions+from+Bahrain+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
