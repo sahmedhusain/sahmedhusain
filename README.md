@@ -1,17 +1,8 @@
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, Welcome to my portfolio!
 Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&height=160&text=Sayed%20Ahmed%20Husain&fontSize=36&fontAlignY=35&animation=twinkling" alt="Profile Banner" />
-</p>
-
-<p align="center">
-  <a href="#featured-projects">Featured Projects</a> •
-  <a href="#technical-skills--technologies">Tech Stack</a> •
-  <a href="#github-statistics">Stats</a> •
-  <a href="#professional-experience-timeline">Timeline</a> •
-  <a href="#connect-with-me">Contact</a>
 </p>
 
 <div align="center">
@@ -50,13 +41,13 @@ Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 ## 📌 Quick Index
 
 <p align="center">
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-0b2d5c?style=for-the-badge&logo=github&logoColor=white" alt="Featured Projects" /></a>
-  <a href="#-what-im-focused-on-right-now"><img src="https://img.shields.io/badge/Focus_Now-0f4c81?style=for-the-badge&logo=target&logoColor=white" alt="Focus Now" /></a>
-  <a href="#-technical-skills--technologies"><img src="https://img.shields.io/badge/Tech_Stack-125688?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
-  <a href="#-github-statistics"><img src="https://img.shields.io/badge/GitHub_Stats-1666b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
-  <a href="#-certifications--achievements"><img src="https://img.shields.io/badge/Certifications-1a75cc?style=for-the-badge&logo=certificate&logoColor=white" alt="Certifications" /></a>
-  <a href="#-professional-experience-timeline"><img src="https://img.shields.io/badge/Timeline-1e83e5?style=for-the-badge&logo=clockify&logoColor=white" alt="Timeline" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-2292ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-0b2d5c?style=for-the-badge&logo=github&logoColor=white" alt="Featured Projects" /></a>
+  <a href="#what-im-focused-on-right-now"><img src="https://img.shields.io/badge/Focus_Now-0f4c81?style=for-the-badge&logo=target&logoColor=white" alt="Focus Now" /></a>
+  <a href="#technical-skills--technologies"><img src="https://img.shields.io/badge/Tech_Stack-125688?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
+  <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub_Stats-1666b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
+  <a href="#certifications--achievements"><img src="https://img.shields.io/badge/Certifications-1a75cc?style=for-the-badge&logo=certificate&logoColor=white" alt="Certifications" /></a>
+  <a href="#professional-experience-timeline"><img src="https://img.shields.io/badge/Timeline-1e83e5?style=for-the-badge&logo=clockify&logoColor=white" alt="Timeline" /></a>
+  <a href="#connect-with-me"><img src="https://img.shields.io/badge/Contact-2292ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" /></a>
 </p>
 
 <div align="center">
@@ -160,6 +151,7 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 <summary><strong>View full badges & tools (expand/collapse)</strong></summary>
 
 ### Primary Stack (What I use most)
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -182,6 +174,7 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 </p>
 
 ### Supporting Tools & Experience
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -195,6 +188,7 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 </p>
 
 ### Exploring / Familiar With
+
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -206,6 +200,7 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 </p>
 
 ### Engineering & Industry Background
+
 <p align="center">
   <img src="https://img.shields.io/badge/Electrical_Engineering-FF6B6B?style=for-the-badge&logo=electricity&logoColor=white" alt="Electrical Engineering"/>
   <img src="https://img.shields.io/badge/Fire_Safety_Systems-FF4500?style=for-the-badge&logo=fire&logoColor=white" alt="Fire Safety"/>
@@ -236,6 +231,7 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 </div>
 
 ### 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahmedhusain&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph"/>
 </div>
@@ -252,12 +248,14 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 <summary><strong>🏆 View certifications & achievements (expand/collapse)</strong></summary>
 
 ### 📜 Professional Certifications
+
 - 🌞 **NOCN Level 3 Award** - Solar PV Installer and Operator
 - 🧠 **Emotional Intelligence** Certification
 - 💼 **Corporate Sales Fundamentals** Certification
 - 🎓 **Professional Skills Certificate** - Information Technology (Reboot Coding Institute)
 
 ### 🌟 Key Achievements
+
 - 📊 Successfully developed and executed sales strategies for LIFECO across Bahrain
 - 🔥 Led fire safety system implementations for major clients including:
 - 📈 Improved regional sales volumes through targeted marketing strategies
@@ -306,19 +304,19 @@ My background spans engineering, customer-facing technical roles, and software d
     "textColor": "#f8fafc",
     "fontSize": "15px",
     "fontFamily": "Inter, system-ui, sans-serif",
-    
+
     "taskBkgColor": "#6366f1",
     "taskTextColor": "#e2e8f0",
     "taskBorderColor": "#4338ca",
-    
+
     "activeTaskBkgColor": "#10b981",
     "activeTaskTextColor": "#ffffff",
     "activeTaskBorderColor": "#059669",
-    
+
     "doneTaskBkgColor": "#64748b",
     "doneTaskTextColor": "#f1f5f9",
     "doneTaskBorderColor": "#475569",
-    
+
     "milestoneBkgColor": "#f59e0b",
     "milestoneBorderColor": "#b45309"
   },
@@ -426,10 +424,11 @@ NOCN Level 3 Award — Solar PV Installer and Operator (EWA Acknowledgment) :mil
 </div>
 
 ### 📫 Get in Touch
+
 - 📧 **Email:** sayedahmed97.sad@gmail.com
 - 💬 **Discord:** [s_97ahm](https://discord.com/users/s_97ahm)
 - 💼 **LinkedIn:** [Sayed Ahmed Husain](https://www.linkedin.com/in/97ahm/)
-- 🐦 **X (Twitter):** [@_97ahm](https://twitter.com/_97ahm)
+- 🐦 **X (Twitter):** [@\_97ahm](https://twitter.com/_97ahm)
 
 </details>
 
