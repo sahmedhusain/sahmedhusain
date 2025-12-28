@@ -290,22 +290,72 @@ My background spans engineering, customer-facing technical roles, and software d
 
 ### 🌟 Career Highlights (Snapshot)
 
-- 🔥 Built hands-on experience in **fire alarm systems**: design, installation/programming, testing & commissioning in Bahrain.
-- 📡 Developed strong customer-facing execution through **telecom retail sales**, support, and branch-level responsibilities.
-- 💻 Currently sharpening full‑stack delivery at **Reboot Coding Institute** with production-style projects and workflows.
-- 🌐 Leading **market development and client relations** activities at LIFECO while continuing to build software products.
+- ⚡ Built hands-on experience in **fire alarm systems** through design support, installation/programming, and testing & commissioning work in Bahrain.
+- 📡 Strengthened customer-facing execution through **telecom retail sales** roles, handling service support and day-to-day branch operations.
+- 🧪 Completed an **internship at Megger** focused on electrical test equipment and practical lab workflows.
+- 🚀 Currently combining **full-stack development (Reboot Coding Institute)** with **market development & client relations** in my role at LIFECO.
 
 ```mermaid
-timeline
-    title Professional Journey (Clear View)
-    2015-2022 : 🎓 University of Bahrain — BSc Electrical Engineering
-    2018-2019 : 👣 Early Industry Training — Trainee (Bahrain)
-    2019-2022 : 📡 Zain Bahrain — Retail Sales Representative (Consumer Sales & Support)
-    2020      : 🧪 Megger — Internship (Electrical Test Equipment)
-    2022      : 📶 channels by stc — Retail Sales Advisor
-    2022-2023 : 🔥 Super Fire & Safety — General Electrical Engineer (Fire Alarm Systems)
-    2024-2026 : 💻 Reboot Coding Institute — Full‑Stack Development (Professional Skills Certificate)
-    2024-Present : 🌐 LIFECO — Public Relations In‑Charge (Market Development)
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "darkMode": true,
+    "background": "#0f172a",
+    "primaryColor": "#3b82f6",
+    "lineColor": "#334155",
+    "textColor": "#f8fafc",
+    "fontSize": "15px",
+    "fontFamily": "Inter, system-ui, sans-serif",
+    
+    "taskBkgColor": "#6366f1",
+    "taskTextColor": "#e2e8f0",
+    "taskBorderColor": "#4338ca",
+    
+    "activeTaskBkgColor": "#10b981",
+    "activeTaskTextColor": "#ffffff",
+    "activeTaskBorderColor": "#059669",
+    
+    "doneTaskBkgColor": "#64748b",
+    "doneTaskTextColor": "#f1f5f9",
+    "doneTaskBorderColor": "#475569",
+    
+    "milestoneBkgColor": "#f59e0b",
+    "milestoneBorderColor": "#b45309"
+  },
+  "gantt": {
+    "barHeight": 28,
+    "barGap": 8,
+    "topAxis": true,
+    "leftAxis": true,
+    "gridLineStartPadding": 35
+  }
+}}%%
+gantt
+title 📍 Professional Timeline
+dateFormat  YYYY-MM-DD
+axisFormat  %Y
+
+section 🎓 Education
+University of Bahrain — Bachelor of Science in Electrical Engineering :done, edu1, 2015-09-01, 2022-06-30
+Reboot Coding Institute — Full-Stack Development Program :active, edu2, 2024-04-01, 2026-06-30
+
+section 🧪 Internships
+Megger — Electrical Test Equipment Internship :done, int1, 2020-07-01, 2020-09-30
+
+section 💼 Career
+Zain Bahrain — Retail Sales Representative :done, job1, 2019-02-01, 2022-03-31
+channels by stc — Retail Sales Advisor :done, job2, 2022-04-01, 2022-09-30
+Super Fire & Safety — General Electrical Engineer :done, job3, 2022-10-01, 2023-10-31
+LIFECO — Public Relations In-Charge :active, job4, 2024-05-01, 2026-06-30
+
+section 🏆 Licenses & Certifications
+Corporate Sales Fundamentals — Golden Trust :milestone, cert1, 2019-11-01, 0d
+Emotional Intelligence — Golden Trust :milestone, cert2, 2019-08-01, 0d
+Basic Life Support (BLS) — American Heart Association :milestone, cert3, 2022-07-01, 0d
+Engineering License (Electrical) — CRPEP :milestone, cert4, 2022-12-01, 0d
+Electrical Installation Wireman — EWA Bahrain :milestone, cert5, 2024-02-01, 0d
+NOCN Level 3 Award — Solar PV Installer and Operator (NOCN Group) :milestone, cert6, 2024-03-01, 0d
+NOCN Level 3 Award — Solar PV Installer and Operator (EWA Acknowledgment) :milestone, cert7, 2024-07-01, 0d
 ```
 
 </details>
