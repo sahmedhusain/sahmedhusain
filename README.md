@@ -230,11 +230,13 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
 ### Engineering & Industry Background
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electrical_Engineering-FF6B6B?style=for-the-badge&logo=electricity&logoColor=white" alt="Electrical Engineering"/>
-  <img src="https://img.shields.io/badge/Fire_Safety_Systems-FF4500?style=for-the-badge&logo=fire&logoColor=white" alt="Fire Safety"/>
-  <img src="https://img.shields.io/badge/NFPA_Standards-8B0000?style=for-the-badge&logoColor=white" alt="NFPA"/>
   <img src="https://img.shields.io/badge/Oracle_CRM-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle CRM"/>
-  <img src="https://img.shields.io/badge/Solar_PV_Systems-FDB813?style=for-the-badge&logo=solar&logoColor=black" alt="Solar PV"/>
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/>
+  <img src="https://img.shields.io/badge/SAP_System-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP System"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF2525?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/Fusion_360-F37C00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/>
+  <img src="https://img.shields.io/badge/MATLAB_Code-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB Code"/>
+  <img src="https://img.shields.io/badge/MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB Simulink"/>
   <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
 </p>
 
