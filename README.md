@@ -245,32 +245,6 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 </div>
 
-## 🏆 Certifications & Achievements
-
-<details>
-<summary><strong>🏆 View certifications & achievements (expand/collapse)</strong></summary>
-
-### 📜 Professional Certifications
-
-- 🌞 **NOCN Level 3 Award** - Solar PV Installer and Operator
-- 🧠 **Emotional Intelligence** Certification
-- 💼 **Corporate Sales Fundamentals** Certification
-- 🎓 **Professional Skills Certificate** - Information Technology (Reboot Coding Institute)
-
-### 🌟 Key Achievements
-
-- 📊 Successfully developed and executed sales strategies for LIFECO across Bahrain
-- 🔥 Led fire safety system implementations for major clients including:
-- 📈 Improved regional sales volumes through targeted marketing strategies
-- 🤝 Established strong relationships with government ministries and authorities
-- 👥 Managed and led technical teams for complex electrical installations
-
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
 ## 🧭 Experience Summary
 
 My background spans engineering, customer-facing technical roles, and software development. I’ve worked on safety-critical electrical systems, telecom sales and leadership roles, and now focus on building scalable, maintainable software systems with modern web technologies.
@@ -434,12 +408,6 @@ NOCN Level 3 Award — Solar PV Installer and Operator (EWA Acknowledgment) :mil
 - 🐦 **X (Twitter):** [@\_97ahm](https://twitter.com/_97ahm)
 
 </details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-> _The sections below include activity graphs, visual summaries, and profile extras._
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
