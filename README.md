@@ -166,14 +166,6 @@ _Consistent local setup, clear run instructions, and practical tooling for build
 - Developing modern frontends with **React / Next.js** and practical UI/UX
 - Shipping projects with **Docker** and production-style setups when applicable
 
-### 🏢 Professional Journey
-
-- **LIFECO (May 2024 – Present)** — Public Relations In‑Charge; market development, client relations, and coordinated sales/PR initiatives in Bahrain.
-- **Super Fire & Safety Services (Oct 2022 – Oct 2023)** — General Electrical Engineer; fire alarm design, installation/programming, testing & commissioning aligned with Bahrain CDFSD / GCC fire code / NFPA.
-- **channels by stc (Apr 2022 – Sep 2022)** — Retail Sales Advisor; cross‑sell/upsell telecom services, handle customer requests and complaints via Oracle CRM.
-- **Zain Bahrain (Feb 2019 – Mar 2022)** — Retail Sales Representative; sales, customer support, technical troubleshooting, and acting branch management responsibilities.
-- **Megger (Jul 2020 – Sep 2020)** — Internship; worked with electrical test equipment (e.g., grounding resistivity, CT/VT, relays, motors).
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 </div>
