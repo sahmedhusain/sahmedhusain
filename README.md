@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, Welcome to my portfolio!
+
 Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 
 <p align="center">
@@ -27,7 +28,7 @@ Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 
 ## 🚀 About Me
 
-<div style="display:flex; align-items:flex-start; justify-content:space-between; gap:20px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-start; justify-content:space-between; gap:20px;">
   <div style="flex:1 1 360px; min-width:320px; text-align:left;">
     <p>I’m a full-stack developer with a strong engineering background, currently building modern web systems using Go, JavaScript, and contemporary frontend frameworks.</p>
     <p>I began my career in electrical engineering and fire safety systems, working on real-world, safety-critical projects. That experience shaped how I approach software today: structured design, clear logic, and systems that are reliable under real constraints.</p>
