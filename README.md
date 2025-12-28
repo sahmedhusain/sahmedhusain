@@ -159,17 +159,6 @@ _Consistent local setup, clear run instructions, and practical tooling for build
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 </div>
 
-## 🎯 What I’m Focused On Right Now
-
-- Building backend-heavy full-stack projects with **Go** (APIs, concurrency, WebSockets)
-- Designing clean **SQLite/PostgreSQL** schemas and reliable data flows
-- Developing modern frontends with **React / Next.js** and practical UI/UX
-- Shipping projects with **Docker** and production-style setups when applicable
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
 ## 🛠️ Technical Skills & Technologies
 
 **Core Focus:**  
