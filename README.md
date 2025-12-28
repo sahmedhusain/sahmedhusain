@@ -7,11 +7,11 @@ Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 </p>
 
 <p align="center">
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-technical-skills--technologies">Tech Stack</a> •
-  <a href="#-github-statistics">Stats</a> •
-  <a href="#-professional-experience-timeline">Timeline</a> •
-  <a href="#-connect-with-me">Contact</a>
+  <a href="#featured-projects">Featured Projects</a> •
+  <a href="#technical-skills--technologies">Tech Stack</a> •
+  <a href="#github-statistics">Stats</a> •
+  <a href="#professional-experience-timeline">Timeline</a> •
+  <a href="#connect-with-me">Contact</a>
 </p>
 
 <div align="center">
