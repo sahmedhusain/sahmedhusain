@@ -48,10 +48,43 @@ Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
   <a href="#what-im-focused-on-right-now"><img src="https://img.shields.io/badge/Focus_Now-0f4c81?style=for-the-badge&logo=target&logoColor=white" alt="Focus Now" /></a>
   <a href="#technical-skills--technologies"><img src="https://img.shields.io/badge/Tech_Stack-125688?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
   <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub_Stats-1666b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
-  <a href="#certifications--achievements"><img src="https://img.shields.io/badge/Certifications-1a75cc?style=for-the-badge&logo=certificate&logoColor=white" alt="Certifications" /></a>
   <a href="#professional-experience-timeline"><img src="https://img.shields.io/badge/Timeline-1e83e5?style=for-the-badge&logo=clockify&logoColor=white" alt="Timeline" /></a>
   <a href="#connect-with-me"><img src="https://img.shields.io/badge/Contact-2292ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" /></a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmedhusain&theme=github_dark" alt="Profile Details" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahmedhusain&theme=github_dark" alt="Repos per Language" />
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahmedhusain&theme=github_dark" alt="Most Commit Language" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahmedhusain&theme=github_dark" alt="Stats" />
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahmedhusain&theme=github_dark&utcOffset=3" alt="Productive Time" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sahmedhusain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
@@ -212,32 +245,6 @@ Backend-heavy full-stack development with **Go** (APIs, concurrency, WebSockets)
   <img src="https://img.shields.io/badge/Solar_PV_Systems-FDB813?style=for-the-badge&logo=solar&logoColor=black" alt="Solar PV"/>
   <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
 </p>
-
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-## 📊 GitHub Statistics
-
-<details>
-<summary><strong>📈 View GitHub stats & graphs (expand/collapse)</strong></summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahmedhusain&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmedhusain&layout=compact&langs_count=8&hide_border=true&v=20251227" height="180" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sahmedhusain&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahmedhusain&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph"/>
-</div>
 
 </details>
 
