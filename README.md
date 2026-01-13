@@ -376,7 +376,6 @@ NOCN Level 3 Award — Solar PV Installer and Operator (EWA Acknowledgment) :mil
   <a href="https://sahmedhusain.github.io/me/" target="_blank">
     <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio%2520Website-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio Website"/>
   </a>
-<div align="center">
   <a href="https://www.linkedin.com/in/97ahm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
