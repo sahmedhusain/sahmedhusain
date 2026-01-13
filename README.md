@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, Welcome to my portfolio!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, Welcome to my profile!
 
 Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 
@@ -7,7 +7,7 @@ Full-Stack Developer | Go & JavaScript | Real-Time & Backend-Focused Systems
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Electrical+Engineer+%7C+Full+Stack+Developer;Public+Relations+In-charge+@+LIFECO;Reboot+Coding+Institute+Student;Building+Tech-Driven+Solutions+from+Bahrain+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Electrical+Engineer+%7C+Full+Stack+Developer;Reboot+Coding+Institute+Student;Building+Tech-Driven+Solutions+from+Bahrain+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -311,7 +311,7 @@ section 💼 Career
 Zain Bahrain — Retail Sales Representative :done, job1, 2019-02-01, 2022-03-31
 channels by stc — Retail Sales Advisor :done, job2, 2022-04-01, 2022-09-30
 Super Fire & Safety — General Electrical Engineer :done, job3, 2022-10-01, 2023-10-31
-LIFECO — Public Relations In-Charge :active, job4, 2024-05-01, 2026-06-30
+LIFECO — Public Relations In-Charge :active, job4, 2024-05-01, 2026-02-01
 
 section 🏆 Licenses & Certifications
 Corporate Sales Fundamentals — Golden Trust :milestone, cert1, 2019-11-01, 0d
