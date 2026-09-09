@@ -31,7 +31,7 @@ Outside of work, I enjoy tea, swimming, and small creative projects that quietly
 ## 📌 Quick Index
 
 <p align="center">
-  <a href="https://sahmedhusain.github.io/me/"><img src="https://img.shields.io/badge/My_Website-2a9d8f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website" /></a>
+  <a href="https://me.sayedtechs.com"><img src="https://img.shields.io/badge/My_Website-2a9d8f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website" /></a>
   <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-0b2d5c?style=for-the-badge&logo=github&logoColor=white" alt="Featured Projects" /></a>
   <a href="#technical-skills--technologies"><img src="https://img.shields.io/badge/Tech_Stack-125688?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
   <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub_Stats-1666b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
