@@ -1,346 +1,234 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, Welcome to my profile!
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Sayed+Ahmed+Husain;From+Bahrain;Simple+ideas%2C+steady+progress%2C+good+work;" alt="Typing SVG" />
-</div>
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=200&section=header&text=Sayed%20Ahmed%20Husain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Multidisciplinary%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sahmedhusain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views badge" />
-    <a href="https://github.com/sahmedhusain?tab=followers">
-      <img src="https://img.shields.io/github/followers/sahmedhusain?label=Followers&style=for-the-badge&logo=github&color=0d1117&labelColor=1f6feb" alt="GitHub followers">
+  <!-- Animated Typing Subtitle -->
+  <a href="https://me.sayedtechs.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Bridging+physical+infrastructure+%26+digital+architecture;BSc+Electrical+Engineer+%2B+Full-Stack+Software+Crafter;Zero-failure+mindset%3A+from+high-voltage+substations+to+low-latency+backends;Writing+raw+libc+syscalls%2C+concurrent+Go+routines%2C+and+reactive+UIs;Fueled+by+curiosity%2C+clean+code%2C+and+unreasonable+amounts+of+tea+%E2%98%95;" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://me.sayedtechs.com">
+      <img src="https://img.shields.io/badge/Portfolio-me.sayedtechs.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
     </a>
-    <a href="https://github.com/sahmedhusain">
-      <img src="https://img.shields.io/github/stars/sahmedhusain?label=Total%20Stars&style=for-the-badge&logo=github&color=0d1117&labelColor=0e75b6" alt="Total GitHub stars">
+    <a href="https://linkedin.com/in/97ahm">
+      <img src="https://img.shields.io/badge/LinkedIn-Sayed_Ahmed-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sayedahmed97.sad@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sayedahmed97.sad%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=sahmedhusain&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+      <img src="https://komarev.com/ghpvc/?username=sahmedhusain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </div>
 
+## 👋 Who is Sayed? (The TL;DR Version)
+
+I’m an engineer based in Bahrain who lives at the intersection of **physical reality** and **digital systems**. 
+
+Most software developers joke about breaking production on Friday afternoon. Coming from **high-voltage electrical engineering** and **fire-life-safety systems**, my definition of "breaking production" involves real sparks, industrial alarms, and explaining things to Civil Defense inspectors. That background gave me a **zero-failure mindset**—whether I’m commissioning safety systems for multi-billion dollar industrial plants or handcrafting memory-safe concurrent backends.
+
+```bash
+$ whoami
+> Sayed Ahmed Husain
+> BSc Electrical Engineer (UoB) | Full-Stack & Systems Crafter (Reboot01)
+> CRPEP Licensed Engineer | EWA Certified Wireman | Solar PV Specialist
+> Passion: Writing low-level systems, concurrent Go engines, and clean reactive UIs from scratch
+> Superpower: Can troubleshoot both your high-voltage distribution panel and your TCP socket leaks
+```
+
+---
+
+## ⚡ How I Describe Myself at Parties
+
+* 🔌 **The Physical Guy:** Licensed Electrical Engineer & Wireman. Engineered NFPA-compliant life-safety systems for heavy industrial giants (**ALBA**, **Bahrain Steel**), directed teams of 15+ technicians, and managed bids on the Bahrain Tender Board contributing to over **$1M+** in revenue.
+* 🦀 **The Systems Geek:** Curious enough to write a single-threaded non-blocking HTTP web server in pure Rust with raw `libc` syscalls (`epoll`/`kqueue`), a 3D raytracer without graphics libraries, and an in-house Virtual DOM framework because *"I want to know how it actually works under the hood."*
+* 🐹 **The Concurrency Fan:** Hooked on Go goroutines, channels, deterministic event loops, and building real-time apps that don't choke under 1,000+ simultaneous connections.
+* 🍵 **Operational Truth:** 90% tea, 10% pure refusal to leave a memory leak unresolved.
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-## 🚀 About Me
-
-I’m Sayed from Bahrain, and I’ve taken an interesting path through engineering, people-focused work, and constant learning.
-
-I like simple ideas, steady progress, and work that feels useful, clear, and well done.
-
-Outside of work, I enjoy tea, swimming, and small creative projects that quietly turn into big interests.
-
-## 📌 Quick Index
-
-<p align="center">
-  <a href="https://me.sayedtechs.com"><img src="https://img.shields.io/badge/My_Website-2a9d8f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-0b2d5c?style=for-the-badge&logo=github&logoColor=white" alt="Featured Projects" /></a>
-  <a href="#technical-skills--technologies"><img src="https://img.shields.io/badge/Tech_Stack-125688?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
-  <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub_Stats-1666b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" /></a>
-  <a href="#professional-experience-timeline"><img src="https://img.shields.io/badge/Timeline-1e83e5?style=for-the-badge&logo=clockify&logoColor=white" alt="Timeline" /></a>
-  <a href="#connect-with-me"><img src="https://img.shields.io/badge/Contact-2292ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" /></a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmedhusain&theme=github_dark" alt="Profile Details" />
+  <a href="https://github.com/sahmedhusain">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahmedhusain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahmedhusain&theme=github_dark" alt="Repos per Language" />
-  </a>
-  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahmedhusain&theme=github_dark" alt="Most Commit Language" />
-  </a>
-</div>
+---
+
+## 📊 GitHub Analytics & Code Velocity
 
 <div align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahmedhusain&theme=github_dark" alt="Stats" />
-  </a>
-  <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahmedhusain&theme=github_dark&utcOffset=3" alt="Productive Time" />
-  </a>
-</div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sahmedhusain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmedhusain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=sahmedhusain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </div>
 
-## ⭐ Selected Work
+## 🚀 Flagship Projects (Built From Scratch)
 
-### 🎮 Hand Betting Game
+Here is a curated taste of what I build when nobody stops me from reinventing the wheel to learn how it rolls:
 
-- A playful project that explores quick updates, lively interaction, and thoughtful structure.
-- Built as a fun way to experiment with timing, flow, and user experience.
-- 🔗 Repo: https://github.com/sahmedhusain/Betting-Game
+### 🦀 Systems Programming, 3D Graphics & Game Engines
+| Project | Tech Stack | What It Does & Why It's Cool | Link |
+|:---|:---|:---|:---:|
+| **RayCraft3D** | `Rust` `Scoped Threads` `Math` | Concurrent 3D ray tracer built with zero external math or graphics crates. Features Blinn-Phong specular shading, direct shadows, Fresnel glass refractions, and procedural liquid wave surfaces. | [Repo](https://github.com/sahmedhusain/raycraft-3d) |
+| **ServOxide** | `Rust` `libc` `epoll/kqueue` | High-performance HTTP/1.1 web server written in pure Rust using only `libc` syscalls. Hand-written NGINX-style config parser, level-triggered event loop, CGI runner, and 128-bit session manager. | [Repo](https://github.com/sahmedhusain/servoxide) |
+| **VectorMaze3D** | `Rust` `Macroquad` `UDP` | Multiplayer retro 3D FPS game featuring a custom DDA raycaster, low-latency 30Hz authoritative UDP network loop, match lobby coordinator, and AI bots. | [Repo](https://github.com/sahmedhusain/vector-maze-3d) |
+| **OxideShell** | `Rust` `Systems` `POSIX` | A minimalist, Unix-like command shell implemented from scratch in Rust with zero external binary dependencies. Built-in command dispatcher, quote parser, and signal traps. | [Repo](https://github.com/sahmedhusain/oxide-shell) |
+| **GridTactix** | `Rust` `Algorithms` `Docker` | Turn-based spatial territory game bot tracking opponent Center of Mass via Euclidean distance predictors to aggressively choke expansion vectors. | [Repo](https://github.com/sahmedhusain/gridtactix) |
+| **FlowGrid** | `Rust` `SDL2` `Physics` | Autonomous 4-way intersection simulation utilizing deterministic reservation scheduling and collision detection to eliminate traditional traffic signals. | [Repo](https://github.com/sahmedhusain/flowgrid) |
+| **ApexVault** | `C` `TUI` `Algorithms` | Terminal-based banking and financial ledger engine in C featuring a centered ASCII Text User Interface, password masking, and interest calculators. | [Repo](https://github.com/sahmedhusain/apex-vault) |
 
-### 🚗 FlowGrid
+### 🐹 High-Throughput Backends, Optimization & Algorithms
+| Project | Tech Stack | What It Does & Why It's Cool | Link |
+|:---|:---|:---|:---:|
+| **StackSort** | `Go` `Optimization` `Algorithms` | High-efficiency dual-stack sorting algorithm generator and verifier in Go. Guarantees tight instruction caps (\(\le 3\) for 3 items, \(\le 12\) for 5, \(\le 1500\) for 100). | [Repo](https://github.com/sahmedhusain/stacksort) |
+| **ResourceFlow** | `Go` `Simulation` `Scheduling` | Process scheduling and inventory resource optimization simulator. Solves multi-stage production graphs and prevents starvation through virtual demand calculations. | [Repo](https://github.com/sahmedhusain/resourceflow) |
+| **TetraOpt** | `Go` `Backtracking` `Math` | Recursive backtracking engine that validates polyomino piece graph connectivity and packs irregular tetrominoes into the tightest possible 2D grid square. | [Repo](https://github.com/sahmedhusain/tetraopt) |
+| **FetchCraft** | `Go` `HTTP/1.1` `Crawler` | Command-line file retrieval and website mirroring crawler in Go. Supports bandwidth rate-limiting (`--rate-limit`), background daemonization (`-B`), and offline link rewriting. | [Repo](https://github.com/sahmedhusain/fetchcraft) |
+| **GigaBit** | `Go` `Next.js` `WebSockets` | Full-scale real-time social networking platform featuring instant private/group messaging, threaded posts, notifications, and SQLite persistence. | [Repo](https://github.com/sahmedhusain/GigaBit) |
+| **GoTalk** | `Go` `TCP/IP` `Goroutines` | Concurrent TCP chat server written in Go with client multiplexing, broadcast channels, timestamped message history, and file logging. | [Repo](https://github.com/sahmedhusain/GoTalk) |
 
-- A simulation built around movement, timing, and how small rules can shape the bigger picture.
-- Made to explore balance, flow, and decision-making in a changing environment.
-- 🔗 Repo: https://github.com/sahmedhusain/flowgrid
+### 🤖 Full-Stack Platforms, AI/Vision & Reactive Tools
+| Project | Tech Stack | What It Does & Why It's Cool | Link |
+|:---|:---|:---|:---:|
+| **VisionPulse** | `FastAPI` `YOLOv8` `React Win98` | Real-time computer vision crowd monitor and zone analytics dashboard with hardware webcam/RTSP ingestion and interactive SVG histograms. | [Repo](https://github.com/sahmedhusain/visionpulse) |
+| **OmniKnowledge** | `FastAPI` `FAISS` `React` `Ollama` | Enterprise RAG assistant featuring sub-10ms FAISS FlatL2 vector search, MD5 embedding caching in SQLite, and dynamic inline clickable citations. | [Repo](https://github.com/sahmedhusain/omni-knowledge) |
+| **PicoJS Framework** | `JavaScript ES6+` `V-DOM` | Handwritten reactive UI framework with virtual DOM tree diffing, automatic state updates, and path routing in under 10KB gzipped. Zero dependencies. | [Repo](https://github.com/sahmedhusain/PicoJS-Framework) |
+| **FixLink** | `Python` `Django` `Bootstrap` | Full-stack home services marketplace with dual-persona workspaces for property owners and trade service providers. | [Repo](https://github.com/sahmedhusain/fixlink) |
+| **MarketPulse** | `Ruby on Rails` `Bulma CSS` | Full-stack e-commerce marketplace featuring Devise auth, CarrierWave image uploads, and session-persistent guest-to-user shopping carts. | [Repo](https://github.com/sahmedhusain/marketpulse) |
+| **01 Dashboard** | `React` `TypeScript` `GraphQL` | Learning analytics dashboard consuming GraphQL APIs with Apollo Client, JWT refresh authentication, and SVG telemetry charts. | [Repo](https://github.com/sahmedhusain/01-Dashboard) |
+| **Smart Streetlights** | `Arduino` `IoT` `Sensors` `C++` | IoT road lighting system utilizing motion sensors and ambient light detectors, cutting simulated highway lighting energy consumption by 40%. | [Thesis & Poster](https://me.sayedtechs.com) |
 
-### 🌐 GigaBit
+<div align="center">
+  <a href="https://github.com/sahmedhusain?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+  </a>
+</div>
 
-- A community-focused project built around connection, conversation, and shared spaces.
-- Designed to bring together people, posts, and live interaction in one place.
-- 🔗 Repo: https://github.com/sahmedhusain/GigaBit
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</div>
 
-### 📊 01 Dashboard
+## 🛠️ The Arsenal (Skills & Technologies)
 
-- A dashboard project for presenting progress in a clean and easy-to-read way.
-- Built to help make information feel more organized, clear, and approachable.
-- 🔗 Repo: https://github.com/sahmedhusain/01-Dashboard
-
-<details>
-<summary><strong>➕ More public repos</strong></summary>
-
-Explore all projects here: https://github.com/sahmedhusain?tab=repositories
-
-</details>
-
-### 🚚 Tooling I Ship With
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Unix-2E2E2E?style=for-the-badge" alt="Unix"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Mermaid-ff3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+### 💻 Languages & Runtimes
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-_Consistent local setup, clear run instructions, and practical tooling for building and debugging end-to-end._
+### 🌐 Frontend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Dear_ImGui-9B59B6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="ImGui" />
+  <img src="https://img.shields.io/badge/SDL2-1774A5?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="SDL2" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
+### ⚙️ Backend, Systems & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/FAISS_Vector_DB-0052CC?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+</p>
 
-## 🛠️ Technical Skills & Technologies
+### ⚡ Engineering Credentials & Licenses
+<p align="left">
+  <img src="https://img.shields.io/badge/CRPEP-Licensed_Electrical_Engineer-1e40af?style=for-the-badge&logo=blueprint&logoColor=white" alt="CRPEP" />
+  <img src="https://img.shields.io/badge/EWA-Electrical_Installation_Wireman-f59e0b?style=for-the-badge&logo=sparkles&logoColor=white" alt="EWA Wireman" />
+  <img src="https://img.shields.io/badge/NOCN-Level_3_Solar_PV_Installer-10b981?style=for-the-badge&logo=sun&logoColor=white" alt="NOCN Solar" />
+  <img src="https://img.shields.io/badge/MEWA-Solar_PV_Acknowledgement-059669?style=for-the-badge&logo=leaf&logoColor=white" alt="MEWA" />
+  <img src="https://img.shields.io/badge/Cisco_Academy-Packet_Tracer-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/AHA-Basic_Life_Support_BLS-ef4444?style=for-the-badge&logo=heart&logoColor=white" alt="AHA BLS" />
+</p>
 
-**Core Focus:**
-Backend-heavy full-stack development with a focus on reliable systems, clear design, and practical tooling.
+---
 
-<details>
-<summary><strong>View full skills (expand/collapse)</strong></summary>
-
-### Programming & Markup Languages
-
-- JavaScript
-- TypeScript
-- Golang
-- Python
-- Rust
-- C++
-- Dart
-- HTML5
-- CSS3
-
-### Databases
-
-- SQLite
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Frameworks & Libraries
-
-- React
-- Next.js
-- Node.js
-- Tailwind CSS
-- GraphQL
-- Apollo Client
-- Vite
-- Flutter
-
-### Testing & Code Quality
-
-- Jest
-- ESLint
-
-### Networking, Web & Protocols
-
-- REST APIs
-- WebSockets
-- HTTP
-- JSON
-- TCP/IP
-- OAuth2
-- JWT
-
-### Software, DevOps & Tools
-
-- Git
-- GitHub
-- VS Code
-- PyCharm
-- Docker
-- Cloudflare
-- AWS
-- Unix
-- Bash
-- Postman
-- Figma
-- Mermaid
-- Markdown
-- Xcode
-- Android Studio
-
-### Operating Systems & Environments
-
-- Linux
-- macOS
-- Windows
-- Android
-- Raspberry Pi
-
-### Computer Science & Architecture
-
-- Algorithms & Data Structures
-- Graph Algorithms & Pathfinding
-- Virtual DOM
-- State Management
-- Concurrency & Parallelism
-- Authentication & Session Management
-- Object-Oriented Programming
-- Machine Learning
-
-### Engineering CAD & Simulation
-
-- AutoCAD
-- ArchiCAD
-- MATLAB
-- Circuit Verse
-- Everycircuit
-- SolidWorks
-- Fusion 360
-
-### Hardware & Core Engineering
-
-- Fire Protections Systems
-- Electrical Installation
-- Electrical Testing Equipment
-- Solar PV Systems
-- Digital Circuits Design (Arduino, Pi)
-- Power Electronics
-
-### Personal Skills
-
-- Fast Learner
-- Adaptability
-- Teamwork
-- Communication
-- Problem-solving
-- Decision Making
-- Time Management
-- Project Management
-- Leadership
-- Continuous Learning
-
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-### 🌟 Career Progression
-
-**Business Development & Public Relations In-Charge** — _LIFECO (Lichfield Fire and Safety Equipment FZE)_  
-📍 Bahrain & United Arab Emirates | May 2024 — February 2026
-
-**Electrical Project Engineer** — _Super Fire and Safety Services W.L.L_  
-📍 Bahrain | October 2022 — October 2023
-
-**Retail Sales Specialist** — _Channels by STC_  
-📍 Bahrain | April 2022 — September 2022
-
-**Acting Branch Manager & Retail Operations** — _Zain Bahrain B.S.C_  
-📍 Bahrain | February 2019 — March 2022
-
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://sahmedhusain.github.io/me/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-2a9d8f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/97ahm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sayedahmed97.sad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.com/users/s_97ahm" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://twitter.com/_97ahm" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="https://github.com/sahmedhusain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://medium.com/@s97ahm" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-### 📫 Get in Touch
-
-- 📧 **Email:** sayedahmed97.sad@gmail.com
-- 💬 **Discord:** [s_97ahm](https://discord.com/users/s_97ahm)
-- 💼 **LinkedIn:** [Sayed Ahmed Husain](https://www.linkedin.com/in/97ahm/)
-- 🐦 **X (Twitter):** [@\_97ahm](https://twitter.com/_97ahm)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-</div>
-
-## 🐍 Contribution Snake
+## 🐍 Git Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
+---
+
+## ☕ Random Dev Humor
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&hideBorder=true" alt="Dev Joke" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Something Great!
+
+I’m always open to talking about **distributed systems, concurrent backends, energy engineering, hardware integration**, or collaborating on high-impact projects.
+
+<div align="center">
+  <p>
+    <a href="https://me.sayedtechs.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio_Website-2a9d8f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/97ahm/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sayedahmed97.sad@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://discord.com/users/s_97ahm" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://x.com/_97ahm" target="_blank">
+      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
