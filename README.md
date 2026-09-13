@@ -45,7 +45,7 @@ $ whoami
 
 ## ⚡ How I Describe Myself at Parties
 
-* 🔌 **The Physical Guy:** Licensed Electrical Engineer & Wireman. Engineered NFPA-compliant life-safety systems for heavy industrial giants (**ALBA**, **Bahrain Steel**), directed teams of 15+ technicians, and managed bids on the Bahrain Tender Board contributing to over **$1M+** in revenue.
+* 🔌 **The Physical Guy:** Licensed Electrical Engineer & Wireman. Engineered NFPA-compliant life-safety systems for heavy industrial , directed teams of 15+ technicians, and managed bids.
 * 🦀 **The Systems Geek:** Curious enough to write a single-threaded non-blocking HTTP web server in pure Rust with raw `libc` syscalls (`epoll`/`kqueue`), a 3D raytracer without graphics libraries, and an in-house Virtual DOM framework because *"I want to know how it actually works under the hood."*
 * 🐹 **The Concurrency Fan:** Hooked on Go goroutines, channels, deterministic event loops, and building real-time apps that don't choke under 1,000+ simultaneous connections.
 * 🍵 **Operational Truth:** 90% tea, 10% pure refusal to leave a memory leak unresolved.
