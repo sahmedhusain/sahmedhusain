@@ -92,6 +92,7 @@ Here is a curated taste of what I build when nobody stops me from reinventing th
 |:---|:---|:---|:---:|
 | **RayCraft3D** | `Rust` `Scoped Threads` `Math` | Concurrent 3D ray tracer built with zero external math or graphics crates. Features Blinn-Phong specular shading, direct shadows, Fresnel glass refractions, and procedural liquid wave surfaces. | [Repo](https://github.com/sahmedhusain/raycraft-3d) |
 | **ServOxide** | `Rust` `libc` `epoll/kqueue` | High-performance HTTP/1.1 web server written in pure Rust using only `libc` syscalls. Hand-written NGINX-style config parser, level-triggered event loop, CGI runner, and 128-bit session manager. | [Repo](https://github.com/sahmedhusain/servoxide) |
+| **LinuxSysadminLab** | `Debian` `QEMU/UTM` `UFW` `Nmap` | Hands-on Linux sysadmin and security laboratory: hypervisor VM provisioning, dual-node isolated virtual subnets, non-standard SSH port forwarding (4242), and Nmap penetration testing reconnaissance. | [Repo](https://github.com/sahmedhusain/linux-sysadmin-lab) |
 | **VectorMaze3D** | `Rust` `Macroquad` `UDP` | Multiplayer retro 3D FPS game featuring a custom DDA raycaster, low-latency 30Hz authoritative UDP network loop, match lobby coordinator, and AI bots. | [Repo](https://github.com/sahmedhusain/vector-maze-3d) |
 | **OxideShell** | `Rust` `Systems` `POSIX` | A minimalist, Unix-like command shell implemented from scratch in Rust with zero external binary dependencies. Built-in command dispatcher, quote parser, and signal traps. | [Repo](https://github.com/sahmedhusain/oxide-shell) |
 | **GridTactix** | `Rust` `Algorithms` `Docker` | Turn-based spatial territory game bot tracking opponent Center of Mass via Euclidean distance predictors to aggressively choke expansion vectors. | [Repo](https://github.com/sahmedhusain/gridtactix) |
@@ -169,6 +170,8 @@ Here is a curated taste of what I build when nobody stops me from reinventing th
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/FAISS_Vector_DB-0052CC?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
 </p>
