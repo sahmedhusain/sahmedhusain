@@ -256,5 +256,5 @@ I’m always open to talking about **distributed systems, concurrent backends, e
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=8b949e&center=true&vCenter=true&width=800&height=50&lines=Connection+to+>sahmedhusina+closed.;logout;[Process+Completed];EOF" alt="Terminal Sign-off" />
 </div>
