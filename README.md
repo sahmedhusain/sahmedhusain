@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Dynamic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=200&section=header&text=Sayed%20Ahmed%20Husain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Multidisciplinary%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Sayed%20Ahmed%20Husain&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=%3E%20BSc%20Electrical%20Engineer%20%7C%20Full-Stack%20%26%20Systems%20Architect&descAlignY=62&descSize=16&descColor=8b949e&stroke=30363d&strokeWidth=2" width="100%" alt="Header Banner" />
+</div>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://me.sayedtechs.com">
