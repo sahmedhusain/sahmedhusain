@@ -69,8 +69,7 @@ $ whoami
     <img src="https://github-stats-extended.vercel.app/api?username=sahmedhusain&custom_title=GitHub%20Ranking&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
   </p>
   <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sahmedhusain&layout=donut&langs_count=4&theme=dark_github" alt="Top Languages" height="195" />
-    <img src="https://streak-stats.demolab.com/?user=sahmedhusain" alt="GitHub Streak" height="195" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahmedhusain&theme=transparent&timezone=%2B3&short_numbers=true" alt="GitHub Streak" /></a>
   </p>
 </div>
 
