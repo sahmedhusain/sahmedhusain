@@ -64,17 +64,7 @@ $ whoami
 
 ## 📊 GitHub Analytics & Code Velocity
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sahmedhusain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmedhusain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sahmedhusain&custom_title=GitHub%20Ranking&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=sahmedhusain&custom_title=GitHub%20Ranking&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
   <img src="https://streak-stats.demolab.com?user=sahmedhusain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
