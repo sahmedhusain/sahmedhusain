@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1500&color=58a6ff&center=true&vCenter=true&width=800&height=80&lines=%3E_Sayed+Ahmed+Husain;%3E_Systems+Architect;%3E_Electrical+Engineer;%3E_Full-Stack+Developer" alt="Sayed Identity Loop" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1500&color=58a6ff&center=true&vCenter=true&width=850&height=80&lines=%3E_Sayed+Ahmed+Husain;%3E_Full-Stack+Developer;%3E_Systems+Architect;%3E_Electrical+Engineer" alt="Identity Loop" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2500&color=3fb950&center=true&vCenter=true&width=800&height=40&lines=~/skills/golang;~/skills/rust;~/skills/c;./execute_logic.sh" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2500&color=3fb950&center=true&vCenter=true&width=850&height=50&lines=~/skills/go-rust-ts-js-c-cpp-python;~/web/react-nextjs-tailwind-vite-graphql;~/sys/linux-bash-docker-tcp-websockets;~/data/sqlite-postgres-mongo-mysql;~/core/concurrency-virtual-dom-algorithms;~/hw/arduino-solar-pv-power-electronics;~/eng/fire-safety-autocad-solidworks;~/biz/b2b-sales-tenders-project-management;~/mindset/zero-failure-systems-architecture;./execute_systems_bridge.sh" alt="Tech Stack and Expertise" />
 </div>
 
   <p align="center">
