@@ -1,12 +1,5 @@
 <div align="center">
-  <!-- Dynamic Animated Header Banner -->
-  <!-- Terminal Header Card -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Sayed%20Ahmed%20Husain&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=64&descSize=16&descColor=8b949e&stroke=30363d&strokeWidth=2" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://me.sayedtechs.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+Developer+%26+Systems+Architect;Bridging+physical+infrastructure+%26+digital+architecture;Zero-failure+mindset%3A+from+electrical+roots+to+distributed+systems;Writing+raw+libc+syscalls%2C+concurrent+Go+routines%2C+and+reactive+UIs;Fueled+by+clean+architecture%2C+performance%2C+and+tea+%E2%98%95;" alt="Typing SVG" />
-  </a>
 </div>
 
   <p align="center">
