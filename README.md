@@ -72,7 +72,7 @@ $ whoami
     <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sahmedhusain&layout=donut&langs_count=4&theme=dark_github">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sahmedhusain&layout=donut&langs_count=4&theme=dark_github" alt="Top Languages" height="200" />
     </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahmedhusain&theme=transparent&timezone=%2B3&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahmedhusain&theme=transparent&hide_border=true&timezone=%2B3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   </p>
 </div>
 
