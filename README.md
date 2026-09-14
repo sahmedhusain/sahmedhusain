@@ -32,6 +32,10 @@ I’m an engineer based in Bahrain who lives at the intersection of **physical r
 
 Most software developers joke about breaking production on Friday afternoon. Coming from **high-voltage electrical engineering** and **fire-life-safety systems**, my definition of "breaking production" involves real sparks, industrial alarms, and explaining things to Civil Defense inspectors. That background gave me a **zero-failure mindset**—whether I’m commissioning safety systems for multi-billion dollar industrial plants or handcrafting memory-safe concurrent backends.
 
+<div align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?user=sahmedhusain&theme=gruvbox_dark&cmd=whoami&out=Sayed%20Ahmed%20Husain%0ABSc%20Electrical%20Engineer%20%7C%20Full-Stack%20%26%20Systems%20Crafter%0ACRPEP%20Licensed%20Engineer%20%7C%20EWA%20Certified%20Wireman%0APassion%3A%20Low-level%20systems%2C%20concurrent%20Go%20engines%2C%20and%20reactive%20UIs%0ASuperpower%3A%20Troubleshoots%20distribution%20panels%20and%20TCP%20socket%20leaks" alt="Terminal" width="100%" />
+</div>
+
 ```bash
 $ whoami
 > Sayed Ahmed Husain
