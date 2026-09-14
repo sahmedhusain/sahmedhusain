@@ -56,7 +56,7 @@ $ whoami
 
 <div align="center">
   <a href="https://github.com/sahmedhusain">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahmedhusain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=sahmedhusain" alt="GitHub Trophies" />
   </a>
 </div>
 
