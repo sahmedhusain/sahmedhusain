@@ -1,7 +1,14 @@
 <div align="center">
   <!-- Dynamic Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Sayed%20Ahmed%20Husain&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=%3E%20BSc%20Electrical%20Engineer%20%7C%20Full-Stack%20%26%20Systems%20Architect&descAlignY=62&descSize=16&descColor=8b949e&stroke=30363d&strokeWidth=2" width="100%" alt="Header Banner" />
+  <svg width="100%" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="900" height="160" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+    <circle cx="28" cy="24" r="6" fill="#ff5f56"/>
+    <circle cx="48" cy="24" r="6" fill="#ffbd2e"/>
+    <circle cx="68" cy="24" r="6" fill="#27c93f"/>
+    <text x="50%" y="78" dominant-baseline="middle" text-anchor="middle" fill="#58a6ff" font-family="'Fira Code', monospace" font-size="28" font-weight="700">Sayed Ahmed Husain</text>
+    <text x="50%" y="112" dominant-baseline="middle" text-anchor="middle" fill="#8b949e" font-family="'Fira Code', monospace" font-size="14">Electrical Engineer &amp; Full-Stack Systems Crafter</text>
+  </svg>
 </div>
 
   <!-- Animated Typing Subtitle -->
