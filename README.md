@@ -32,15 +32,11 @@ I’m an engineer based in Bahrain who lives at the intersection of **physical r
 
 Most software developers joke about breaking production on Friday afternoon. Coming from **high-voltage electrical engineering** and **fire-life-safety systems**, my definition of "breaking production" involves real sparks, industrial alarms, and explaining things to Civil Defense inspectors. That background gave me a **zero-failure mindset**—whether I’m commissioning safety systems for multi-billion dollar industrial plants or handcrafting memory-safe concurrent backends.
 
-<div align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?user=sahmedhusain&theme=gruvbox_dark&cmd=whoami&out=Sayed%20Ahmed%20Husain%0ABSc%20Electrical%20Engineer%20%7C%20Full-Stack%20%26%20Systems%20Crafter%0ACRPEP%20Licensed%20Engineer%20%7C%20EWA%20Certified%20Wireman%0APassion%3A%20Low-level%20systems%2C%20concurrent%20Go%20engines%2C%20and%20reactive%20UIs%0ASuperpower%3A%20Troubleshoots%20distribution%20panels%20and%20TCP%20socket%20leaks" alt="Terminal" width="100%" />
-</div>
-
 ```bash
 $ whoami
 > Sayed Ahmed Husain
-> BSc Electrical Engineer (UoB) | Full-Stack & Systems Crafter (Reboot01)
-> CRPEP Licensed Engineer | EWA Certified Wireman | Solar PV Specialist
+> BSc Electrical Engineer | Full-Stack Developer & Systems Crafter (01 Edu)
+> CRPEP Licensed Engineer | Solar PV Specialist
 > Passion: Writing low-level systems, concurrent Go engines, and clean reactive UIs from scratch
 > Superpower: Can troubleshoot both your high-voltage distribution panel and your TCP socket leaks
 ```
@@ -84,7 +80,36 @@ $ whoami
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </div>
 
-## 🚀 Flagship Projects (Built From Scratch)
+## 🚀 Flagship Projects
+
+```bash
+sahmed@workstation:~/projects$ ls -la
+total 96
+drwxr-xr-x 24 sahmed dev 4096 Sep 14 12:00 .
+drwxr-xr-x  4 sahmed dev 4096 Sep 14 09:30 ..
+drwxr-xr-x  8 sahmed dev 4096 Sep 12 18:40 raycraft-3d/          # Rust concurrent 3D raytracer
+drwxr-xr-x  7 sahmed dev 4096 Sep 08 14:15 servoxide/            # HTTP/1.1 web server in Rust (raw libc/epoll)
+drwxr-xr-x  6 sahmed dev 4096 Sep 01 10:20 linux-sysadmin-lab/   # Hypervisor VM provisioning & security lab
+drwxr-xr-x  5 sahmed dev 4096 Aug 29 16:45 vector-maze-3d/       # Multiplayer 3D FPS (custom DDA raycaster + UDP)
+drwxr-xr-x  5 sahmed dev 4096 Aug 24 11:30 oxide-shell/          # POSIX Unix-like shell in Rust
+drwxr-xr-x  6 sahmed dev 4096 Aug 18 19:10 gridtactix/           # Autonomous spatial bot with Euclidean predictors
+drwxr-xr-x  6 sahmed dev 4096 Aug 10 13:25 flowgrid/             # Traffic intersection physics simulator (SDL2)
+drwxr-xr-x  5 sahmed dev 4096 Aug 03 15:40 apex-vault/           # Terminal banking & ledger TUI engine in C
+drwxr-xr-x  6 sahmed dev 4096 Jul 28 09:15 stacksort/            # Instruction-bounded dual-stack sorter in Go
+drwxr-xr-x  5 sahmed dev 4096 Jul 21 14:50 resourceflow/         # Multi-stage production resource scheduler
+drwxr-xr-x  6 sahmed dev 4096 Jul 15 17:35 tetraopt/             # Polyomino backtracking grid packer
+drwxr-xr-x  5 sahmed dev 4096 Jul 08 11:00 fetchcraft/           # Daemonized HTTP crawler & mirror tool
+drwxr-xr-x  7 sahmed dev 4096 Jun 29 20:10 GigaBit/              # Real-time WebSocket social platform (Go/Next.js)
+drwxr-xr-x  5 sahmed dev 4096 Jun 20 18:00 GoTalk/               # Multiplexed concurrent TCP chat engine
+drwxr-xr-x  6 sahmed dev 4096 Jun 11 12:45 visionpulse/          # Real-time computer vision crowd monitor (YOLOv8)
+drwxr-xr-x  6 sahmed dev 4096 May 30 16:20 omni-knowledge/       # Sub-10ms FAISS vector RAG engine
+drwxr-xr-x  7 sahmed dev 4096 May 21 10:15 PicoJS-Framework/     # Virtual DOM & reactive state core
+drwxr-xr-x  6 sahmed dev 4096 May 12 15:30 fixlink/              # Dual-persona services marketplace (Django)
+drwxr-xr-x  6 sahmed dev 4096 Apr 28 14:10 marketpulse/          # E-commerce store engine (Rails + Bulma)
+drwxr-xr-x  5 sahmed dev 4096 Apr 15 11:20 01-Dashboard/         # GraphQL analytics frontend (React + Apollo)
+drwxr-xr-x  5 sahmed dev 4096 Mar 22 09:40 blast-arena/          # 4-player real-time WebSocket arena game
+drwxr-xr-x  4 sahmed dev 4096 Feb 14 16:00 smart-streetlights/   # IoT energy optimization system (Arduino/C++)
+```
 
 Here is a curated taste of what I build when nobody stops me from reinventing the wheel to learn how it rolls:
 
