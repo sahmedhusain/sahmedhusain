@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=45&pause=1000&color=c9d1d9&center=true&vCenter=true&width=800&height=80&lines=Sayed+Ahmed+Husain" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1500&color=58a6ff&center=true&vCenter=true&width=800&height=80&lines=%3E_Sayed+Ahmed+Husain;%3E_Systems+Architect;%3E_Electrical+Engineer;%3E_Full-Stack+Developer" alt="Sayed Identity Loop" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=8b949e&center=true&vCenter=true&width=800&height=40&lines=Electrical+Engineer+%7C+Full-Stack+Developer+%7C+Systems+Architect" alt="Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2500&color=3fb950&center=true&vCenter=true&width=800&height=40&lines=~/skills/golang;~/skills/rust;~/skills/c;./execute_logic.sh" alt="Tech Stack" />
 </div>
 
   <p align="center">
