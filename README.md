@@ -1,20 +1,14 @@
 <div align="center">
   <!-- Dynamic Animated Header Banner -->
 <div align="center">
-  <svg width="100%" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="900" height="160" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-    <circle cx="28" cy="24" r="6" fill="#ff5f56"/>
-    <circle cx="48" cy="24" r="6" fill="#ffbd2e"/>
-    <circle cx="68" cy="24" r="6" fill="#27c93f"/>
-    <text x="50%" y="78" dominant-baseline="middle" text-anchor="middle" fill="#58a6ff" font-family="'Fira Code', monospace" font-size="28" font-weight="700">Sayed Ahmed Husain</text>
-    <text x="50%" y="112" dominant-baseline="middle" text-anchor="middle" fill="#8b949e" font-family="'Fira Code', monospace" font-size="14">Electrical Engineer &amp; Full-Stack Systems Crafter</text>
-  </svg>
-</div>
+  <!-- Terminal Header Card -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Sayed%20Ahmed%20Husain&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=64&descSize=16&descColor=8b949e&stroke=30363d&strokeWidth=2" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://me.sayedtechs.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Bridging+physical+infrastructure+%26+digital+architecture;BSc+Electrical+Engineer+%2B+Full-Stack+Software+Crafter;Zero-failure+mindset%3A+from+high-voltage+substations+to+low-latency+backends;Writing+raw+libc+syscalls%2C+concurrent+Go+routines%2C+and+reactive+UIs;Fueled+by+curiosity%2C+clean+code%2C+and+unreasonable+amounts+of+tea+%E2%98%95;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+Developer+%26+Systems+Architect;Bridging+physical+infrastructure+%26+digital+architecture;Zero-failure+mindset%3A+from+electrical+roots+to+distributed+systems;Writing+raw+libc+syscalls%2C+concurrent+Go+routines%2C+and+reactive+UIs;Fueled+by+clean+architecture%2C+performance%2C+and+tea+%E2%98%95;" alt="Typing SVG" />
   </a>
+</div>
 
   <p align="center">
     <a href="https://me.sayedtechs.com">
